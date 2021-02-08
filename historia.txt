@@ -4,4 +4,4 @@ Esta es una historia de Diego Presiga aprendiendo Git :U
 
 Hoy hablaremos de su vida
 
-Su vida y obra mastra
+Mañana me encfocaré en javascript
