@@ -35,8 +35,8 @@ div {
   display: flexbox;
   align-items: center;
   width: 50%;
-
+  font-weight: bold;
   position: relative;
   left: 25%;
-  border-radius: 5px;
+  border-radius: 10px;
 }
