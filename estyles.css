@@ -40,3 +40,12 @@ div {
   left: 25%;
   border-radius: 10px;
 }
+
+header {
+  background: darkgray;
+  box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+  color: white;
+  font-weight: bold;
+  margin: 0;
+  padding: 0.5em;
+}
