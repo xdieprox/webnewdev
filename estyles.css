@@ -40,3 +40,9 @@ div {
   left: 25%;
   border-radius: 5px;
 }
+
+header {
+  background-color: darkgray;
+  height: 50px;
+  width: 100%;
+}
